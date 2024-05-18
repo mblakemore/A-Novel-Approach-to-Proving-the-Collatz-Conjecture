@@ -66,7 +66,7 @@ Therefore, for odd n, there exists an m ∈ {m' + 1, m' + 2} such that f(C^m(n))
 
 By the principle of strong induction, the theorem holds for all positive integers n.
 
-### Theorem 2 (Updated): The only possible cycle in any Collatz sequence is the cycle (4, 2, 1).
+### Theorem 2: The only possible cycle in any Collatz sequence is the cycle (4, 2, 1).
 
 #### Proof:
 We will prove the theorem by contradiction. Suppose there exists a cycle in a Collatz sequence that is different from (4, 2, 1).
